@@ -12,5 +12,6 @@ public class Code_demogitchieu99 {
 
     public static void main(String[] args) {
         System.out.println("Hello Tra My!");
+        System.out.println(" Day thuc hanh java");
     }
 }
